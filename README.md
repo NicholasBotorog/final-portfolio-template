@@ -51,4 +51,4 @@ I am deeply passionate about full-stack development, with a particular emphasis 
 
 I would like to thank American Express for giving me this opportunity to join their team to work on world-impacting projects.
 
-Also a huge shoutout to the Multiverse coaches along the way, especially David Todd and Jonathan Jacka for your support through our journey in Software Engineering.
+Also a huge shoutout to the Multiverse coaches along the way, especially `David Todd` and `Jonathan Jacka` for your support through our journey in Software Engineering.
