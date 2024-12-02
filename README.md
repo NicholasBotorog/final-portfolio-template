@@ -48,7 +48,7 @@ I am deeply passionate about full-stack development, with a particular emphasis 
 
   ### AWS Elective
 
-* Deployment project folder will include the deployment project I've worked on solo during the Multiverse Program.
+* Elective project folder will include the deployment project I've worked on solo during the Multiverse Program.
   * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](https://github.com/StocksParty/stocks-party)
 
 
