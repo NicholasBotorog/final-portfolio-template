@@ -1,4 +1,8 @@
 ## Back End Wallet Wizzard
+
+[GitHub Repository](https://github.com/Back-end-Project/Bank-Project)
+
+
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
@@ -12,8 +16,29 @@ Give a high-level overview of the project purpose
       - The ability to transfer funds from one account to another
 
 ## Technologies
-* Java
-* Springboot
+Containerization:
+* Docker:
+    * Packaged the application and dependencies into portable containers.
+CI/CD:
+* GitHub Actions:
+    * Automated testing, building, and deployment processes.
+Deployment:
+* Render:
+    * Hosted the application and managed the production environment.
+Back-end:
+* Spring Boot (v3.2.7): For building the RESTful API.
+* Java (v17): For application logic.
+Database:
+* PostgreSQL: For persistent data storage.
+* H2 Database: For in-memory testing.
+Dependencies:
+* Spring Boot Starter Data JPA: For database access.
+* Spring Boot Starter Security: For authentication and authorization.
+* Spring Boot Starter Web: For building web applications.
+* JJWT: For JWT handling.
+* Lombok: For reducing boilerplate code in models.
+* Spring Boot Starter Test: For testing.
+
 
 ## Competencies
 ### JF 3.6
