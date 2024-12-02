@@ -34,17 +34,22 @@ I am deeply passionate about full-stack development, with a particular emphasis 
 ### Front-End
 
 * Front-end project folder will include the front-end project I've worked on in a group during the Multiverse Program.
-  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](LINK)
+  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](https://github.com/Multiverse-Front-end/streamflix)
 
 ### Back-End
 
 * Back-end project folder will include the back-end project I've worked on in a group during the Multiverse Program.
-  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](LINK)
+  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](https://github.com/Back-end-Project/Bank-Project)
 
 ### Deployment
 
 * Deployment project folder will include the deployment project I've worked on solo during the Multiverse Program.
-  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](LINK)
+  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](https://github.com/Back-end-Project/Bank-Project)
+
+  ### AWS Elective
+
+* Deployment project folder will include the deployment project I've worked on solo during the Multiverse Program.
+  * You can access the embedded repo to their corresponding folder or click this link to find out more: [PROJECT](https://github.com/StocksParty/stocks-party)
 
 
 ## Acknowledgments
