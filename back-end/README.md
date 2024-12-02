@@ -1,4 +1,4 @@
-## Back End Wallet Wizzard
+## Back End - Wallet Wizzard
 
 [GitHub Repository](https://github.com/Back-end-Project/Bank-Project)
 
