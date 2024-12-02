@@ -8,7 +8,7 @@ This repository is a collection of some of my key learnings during my 15-month a
 
 - **Host Company**: American Express
 - **Duration**: 15 Months (10/2023 to 1/2025)
-- **Link to Portfolio Website**: [Portfolio Site]((https://github.com/NicholasBotorog/final-portfolio-template))
+- **Link to Portfolio Website**: [Portfolio]((https://github.com/NicholasBotorog/final-portfolio-template))
 
 ## Portfolio Introduction
 
