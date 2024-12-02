@@ -1,33 +1,31 @@
-## Project #1
+## Back End Wallet Wizzard
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
+      - The users are customers seeking a secure and reliable solution to manage their finances.
     - What job does it form for them?
+      - It is a web-based bank that enables customers to deposit, withdraw, and transfer money seamlessly between accounts.
     - What inspired you to make it?
+      - I was inspired by the work we do at Amex and aimed to recreate it on a much smaller scale.
     - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+      - The difference between user types: Admin and Customer
+      - The ability to transfer funds from one account to another
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+* Java
+* Springboot
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 3.6
+Can implement a RESTful API
+* The project itself is a backend consisting of a RESTful API which is created with Java and Springboot.
+* The controllers are the API Endpoints that correspond to a specific function HTTP Methods and we use DI & Services to implement service classes to interact with the database
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 3.7
+Can implement authentication and authorization to an API.
+* To ensure there is an auth where we integrate if they are a student or teacher we use JWT and Identity and Auth 
+* The routes are protected with authorization to restrict access to the methods
+
+### JF 3.8
+Can encrypt sensitive data via hashing
+* Used a hashing algorithm provided by packages such as the PasswordHasher and created an example out of it
