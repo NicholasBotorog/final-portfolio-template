@@ -1,5 +1,7 @@
 # Final Portfolio Multiverse - AMEX Apprenticeship
 
+![American Express](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/American_Express_logo_%282018%29.svg/1200px-American_Express_logo_%282018%29.svg.png)
+
 This repository is a collection of some of my key learnings during my 15-month apprenticeship that ran from October 2023 to January 2025 apprenticeship at American Express. In my time with Multiverse and AMEX, I have demonstrated my skills to learn quickly and adapt to changes within my environment in my first professional SWE job.
 
 ## Overview of Apprenticeship
