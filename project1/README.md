@@ -25,19 +25,19 @@ CI/CD:
 Deployment:
 * Render:
     * Hosted the application and managed the production environment.
-Back-end:
-* Spring Boot (v3.2.7): For building the RESTful API.
-* Java (v17): For application logic.
+*Back-end:
+    * Spring Boot (v3.2.7): For building the RESTful API.
+    * Java (v17): For application logic.
 Database:
-* PostgreSQL: For persistent data storage.
-* H2 Database: For in-memory testing.
+    * PostgreSQL: For persistent data storage.
+    * H2 Database: For in-memory testing.
 Dependencies:
-* Spring Boot Starter Data JPA: For database access.
-* Spring Boot Starter Security: For authentication and authorization.
-* Spring Boot Starter Web: For building web applications.
-* JJWT: For JWT handling.
-* Lombok: For reducing boilerplate code in models.
-* Spring Boot Starter Test: For testing.
+    * Spring Boot Starter Data JPA: For database access.
+    * Spring Boot Starter Security: For authentication and authorization.
+    * Spring Boot Starter Web: For building web applications.
+    * JJWT: For JWT handling.
+    * Lombok: For reducing boilerplate code in models.
+    * Spring Boot Starter Test: For testing.
 
 
 ## Competencies
